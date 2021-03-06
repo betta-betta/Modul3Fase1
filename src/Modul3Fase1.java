@@ -11,17 +11,17 @@ public class Modul3Fase1 {
 		String ciutat6;
 		Scanner nomCiutat = new Scanner(System.in);
 
-	    System.out.println("Intropduiex el nom de la ciutat1");
+	    System.out.println("Introduiex el nom de la ciutat1");
 	    ciutat1 = nomCiutat.nextLine();
-	    System.out.println("Intropduiex el nom de la ciutat2");
+	    System.out.println("Introduiex el nom de la ciutat2");
 	    ciutat2 = nomCiutat.nextLine();
-	    System.out.println("Intropduiex el nom de la ciutat3");
+	    System.out.println("Introduiex el nom de la ciutat3");
 	    ciutat3 = nomCiutat.nextLine();
-	    System.out.println("Intropduiex el nom de la ciutat4");
+	    System.out.println("Introduiex el nom de la ciutat4");
 	    ciutat4 = nomCiutat.nextLine();
-	    System.out.println("Intropduiex el nom de la ciutat5");
+	    System.out.println("Introduiex el nom de la ciutat5");
 	    ciutat5 = nomCiutat.nextLine();
-	    System.out.println("Intropduiex el nom de la ciutat6");
+	    System.out.println("Introduiex el nom de la ciutat6");
 	    ciutat6 = nomCiutat.nextLine();
 	    nomCiutat.close();
 	    
