@@ -25,7 +25,7 @@ public class Modul3Fase1 {
 	    ciutat6 = nomCiutat.nextLine();
 	    nomCiutat.close();
 	    
-	    System.out.println("Les ciutats són: "+ciutat1+" "+ciutat2+" "+ciutat3+" "+ciutat4+" "+ciutat5+" "+ciutat6);
+	    System.out.println("Les ciutats són : "+ciutat1+" "+ciutat2+" "+ciutat3+" "+ciutat4+" "+ciutat5+" "+ciutat6);
 		
 
 	
